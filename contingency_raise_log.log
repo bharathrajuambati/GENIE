@@ -1,0 +1,41 @@
+2024-07-28 02:03:53,561 - Starting main function at 2024-07-28 02:03:53
+2024-07-28 02:03:53,583 - Connected to AEMO PI at 2024-07-28 02:03:53
+2024-07-28 02:03:53,585 - Tag list generated at 2024-07-28 02:03:53
+2024-07-28 02:03:54,714 - Current values fetched at 2024-07-28 02:03:54
+2024-07-28 02:03:57,325 - Dispatch case, inflexible flag, and facility bidding data fetched at 2024-07-28 02:03:57
+2024-07-28 02:03:58,331 - Facility data fetched at 2024-07-28 02:03:58
+2024-07-28 02:04:00,946 - Network outages data fetched and processed at 2024-07-28 02:04:00
+2024-07-28 02:04:03,829 - Generator outages data fetched and processed at 2024-07-28 02:04:03
+2024-07-28 02:04:12,243 - Dispatch solution data fetched and processed at 2024-07-28 02:04:12
+2024-07-28 02:04:16,282 - Data frames merged at 2024-07-28 02:04:16
+2024-07-28 02:04:16,496 - Alarms data fetched with categories at 2024-07-28 02:04:16
+2024-07-28 02:04:16,498 - Starting GUI application at 2024-07-28 02:04:16
+2024-07-28 02:04:26,316 - DataFrame updated with 22 rows and 24 columns.
+2024-07-28 02:04:26,317 - DataFrame loaded with 22 rows and 25 columns.
+2024-07-28 02:04:26,348 - Contingency Raise data updated successfully at 2024-07-28 02:04:26.
+2024-07-28 02:05:21,055 - DataFrame updated with 22 rows and 10 columns.
+2024-07-28 02:05:21,057 - DataFrame loaded with 22 rows and 11 columns.
+2024-07-28 02:05:21,130 - Contingency Raise data updated successfully at 2024-07-28 02:05:21.
+2024-07-28 02:05:59,702 - DataFrame updated with 22 rows and 14 columns.
+2024-07-28 02:05:59,703 - DataFrame loaded with 22 rows and 15 columns.
+2024-07-28 02:05:59,771 - Contingency Raise data updated successfully at 2024-07-28 02:05:59.
+2024-07-28 02:06:34,115 - DataFrame updated with 22 rows and 18 columns.
+2024-07-28 02:06:34,117 - DataFrame loaded with 22 rows and 19 columns.
+2024-07-28 02:06:34,240 - Contingency Raise data updated successfully at 2024-07-28 02:06:34.
+2024-07-28 02:07:34,951 - DataFrame updated with 22 rows and 24 columns.
+2024-07-28 02:07:34,952 - DataFrame loaded with 22 rows and 25 columns.
+2024-07-28 02:07:35,110 - Contingency Raise data updated successfully at 2024-07-28 02:07:35.
+2024-07-28 02:08:36,197 - DataFrame updated with 22 rows and 24 columns.
+2024-07-28 02:08:36,199 - DataFrame loaded with 22 rows and 25 columns.
+2024-07-28 02:08:43,944 - Contingency Raise data updated successfully at 2024-07-28 02:08:43.
+2024-07-28 02:09:14,445 - DataFrame loaded with 22 rows and 26 columns.
+2024-07-28 02:09:36,861 - DataFrame updated with 22 rows and 24 columns.
+2024-07-28 02:09:36,865 - DataFrame loaded with 22 rows and 25 columns.
+2024-07-28 02:09:37,218 - Contingency Raise data updated successfully at 2024-07-28 02:09:37.
+2024-07-28 02:10:01,514 - DataFrame loaded with 22 rows and 25 columns.
+2024-07-28 02:10:31,767 - DataFrame updated with 22 rows and 10 columns.
+2024-07-28 02:10:31,769 - DataFrame loaded with 22 rows and 11 columns.
+2024-07-28 02:10:31,839 - Contingency Raise data updated successfully at 2024-07-28 02:10:31.
+2024-07-28 02:11:32,989 - DataFrame updated with 22 rows and 18 columns.
+2024-07-28 02:11:32,991 - DataFrame loaded with 22 rows and 19 columns.
+2024-07-28 02:11:33,109 - Contingency Raise data updated successfully at 2024-07-28 02:11:33.
